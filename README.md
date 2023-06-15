@@ -90,3 +90,23 @@ The repository utilizes React, Firebase JavaScript SDK, Firestore, and other web
 
 Developers can clone or fork this repository to explore the codebase and leverage it as a foundation for their own real-time chat applications. The documentation guides developers through the setup process and provides detailed explanations of the code structure and key components.
 
+## Login Page
+
+![image](https://github.com/aakashsahu1511/Real-time-chat-app/assets/54810209/05f10ef4-49da-4675-8b40-853d5b2d06fd)
+
+## Header
+
+![image](https://github.com/aakashsahu1511/Real-time-chat-app/assets/54810209/ba5ebf42-fd46-4eec-a1c3-8fd51744f8f4)
+
+
+## Header2
+
+![image](https://github.com/aakashsahu1511/Real-time-chat-app/assets/54810209/18caaf42-73d2-42e2-b5d3-9c0e41a34e34)
+
+## Header3
+
+![image](https://github.com/aakashsahu1511/Real-time-chat-app/assets/54810209/261d72d0-6717-4968-b905-3a63e40687d5)
+
+
+
+
