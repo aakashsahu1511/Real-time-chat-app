@@ -1,10 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+# Real-Time Chat Application with Firebase Authentication and Firestore
 
 ### `npm start`
 
@@ -39,37 +33,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# Real-Time Chat Application with Firebase Authentication and Firestore
 ## Description
 This GitHub repository provides a real-time chat application built using React, Firebase Authentication, and Firestore. The repository offers a complete solution for creating a secure chat platform with user authentication and data management capabilities.
 
@@ -94,16 +57,15 @@ Developers can clone or fork this repository to explore the codebase and leverag
 
 ![image](https://github.com/aakashsahu1511/Real-time-chat-app/assets/54810209/05f10ef4-49da-4675-8b40-853d5b2d06fd)
 
-## Header
+## Chat Room Creator Component
 
 ![image](https://github.com/aakashsahu1511/Real-time-chat-app/assets/54810209/ba5ebf42-fd46-4eec-a1c3-8fd51744f8f4)
 
-
-## Header2
+## Chat Component
 
 ![image](https://github.com/aakashsahu1511/Real-time-chat-app/assets/54810209/18caaf42-73d2-42e2-b5d3-9c0e41a34e34)
 
-## Header3
+## UI Component for Messages
 
 ![image](https://github.com/aakashsahu1511/Real-time-chat-app/assets/54810209/261d72d0-6717-4968-b905-3a63e40687d5)
 
